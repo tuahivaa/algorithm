@@ -1,3 +1,4 @@
 # algorithm
-Coding in C# \n
+Coding in C#
+
 study of different algorithms with silly exercises
