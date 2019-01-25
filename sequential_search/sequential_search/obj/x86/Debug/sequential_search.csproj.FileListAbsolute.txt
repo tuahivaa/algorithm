@@ -1,0 +1,6 @@
+/Users/tuahivaatetonohiti/Projects/sequential_search/sequential_search/bin/Debug/sequential_search.exe
+/Users/tuahivaatetonohiti/Projects/sequential_search/sequential_search/bin/Debug/sequential_search.pdb
+/Users/tuahivaatetonohiti/Projects/sequential_search/sequential_search/obj/x86/Debug/sequential_search.csprojAssemblyReference.cache
+/Users/tuahivaatetonohiti/Projects/sequential_search/sequential_search/obj/x86/Debug/sequential_search.csproj.CoreCompileInputs.cache
+/Users/tuahivaatetonohiti/Projects/sequential_search/sequential_search/obj/x86/Debug/sequential_search.exe
+/Users/tuahivaatetonohiti/Projects/sequential_search/sequential_search/obj/x86/Debug/sequential_search.pdb
