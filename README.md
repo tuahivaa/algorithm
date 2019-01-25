@@ -1,3 +1,3 @@
 # algorithm
-Coding in C#
+Coding in C# /n
 study of different algorithms with silly exercises
