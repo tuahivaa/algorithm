@@ -1,0 +1,6 @@
+/Users/tuahivaatetonohiti/Projects/binary_search/binary_search/bin/Debug/binary_search.exe
+/Users/tuahivaatetonohiti/Projects/binary_search/binary_search/bin/Debug/binary_search.pdb
+/Users/tuahivaatetonohiti/Projects/binary_search/binary_search/obj/x86/Debug/binary_search.csprojAssemblyReference.cache
+/Users/tuahivaatetonohiti/Projects/binary_search/binary_search/obj/x86/Debug/binary_search.csproj.CoreCompileInputs.cache
+/Users/tuahivaatetonohiti/Projects/binary_search/binary_search/obj/x86/Debug/binary_search.exe
+/Users/tuahivaatetonohiti/Projects/binary_search/binary_search/obj/x86/Debug/binary_search.pdb
