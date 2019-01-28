@@ -1,0 +1,6 @@
+/Users/tuahivaatetonohiti/Projects/bubble_sort/bubble_sort/bin/Debug/bubble_sort.exe
+/Users/tuahivaatetonohiti/Projects/bubble_sort/bubble_sort/bin/Debug/bubble_sort.pdb
+/Users/tuahivaatetonohiti/Projects/bubble_sort/bubble_sort/obj/x86/Debug/bubble_sort.csprojAssemblyReference.cache
+/Users/tuahivaatetonohiti/Projects/bubble_sort/bubble_sort/obj/x86/Debug/bubble_sort.csproj.CoreCompileInputs.cache
+/Users/tuahivaatetonohiti/Projects/bubble_sort/bubble_sort/obj/x86/Debug/bubble_sort.exe
+/Users/tuahivaatetonohiti/Projects/bubble_sort/bubble_sort/obj/x86/Debug/bubble_sort.pdb
