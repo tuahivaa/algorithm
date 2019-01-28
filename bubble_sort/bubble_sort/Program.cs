@@ -7,9 +7,7 @@ namespace bubble_sort
     {
         public static void Main(string[] args)
         {
-
             Employee[] dataEmployee;
-
             try
             {
                 if (args.Length == 0)
@@ -62,39 +60,20 @@ namespace bubble_sort
                                 }
                                 //Console.WriteLine("");
                                 exchange++;
-
-
                             }
-
-
-
-
-
                         }
-
-
-
                     }
 
                     Console.WriteLine("comparisons : " + comparison);
                     Console.WriteLine("exchange : " + exchange);
-
-
-
-
-
                     employeeFile.Close();
                 }
             }
-
             catch (FileNotFoundException e)
             {
                 Console.WriteLine("File not found.");
             }
-
         }
-
-
         public void bubbleSort( Employee[] a )
         {
 
