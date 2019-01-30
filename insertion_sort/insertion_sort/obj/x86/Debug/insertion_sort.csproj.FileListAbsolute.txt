@@ -1,0 +1,6 @@
+/Users/tuahivaatetonohiti/Projects/insertion_sort/insertion_sort/bin/Debug/insertion_sort.exe
+/Users/tuahivaatetonohiti/Projects/insertion_sort/insertion_sort/bin/Debug/insertion_sort.pdb
+/Users/tuahivaatetonohiti/Projects/insertion_sort/insertion_sort/obj/x86/Debug/insertion_sort.csprojAssemblyReference.cache
+/Users/tuahivaatetonohiti/Projects/insertion_sort/insertion_sort/obj/x86/Debug/insertion_sort.csproj.CoreCompileInputs.cache
+/Users/tuahivaatetonohiti/Projects/insertion_sort/insertion_sort/obj/x86/Debug/insertion_sort.exe
+/Users/tuahivaatetonohiti/Projects/insertion_sort/insertion_sort/obj/x86/Debug/insertion_sort.pdb
