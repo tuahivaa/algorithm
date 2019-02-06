@@ -1,0 +1,6 @@
+/Users/tuahivaatetonohiti/Projects/selection_sort/selection_sort/bin/Debug/selection_sort.exe
+/Users/tuahivaatetonohiti/Projects/selection_sort/selection_sort/bin/Debug/selection_sort.pdb
+/Users/tuahivaatetonohiti/Projects/selection_sort/selection_sort/obj/x86/Debug/selection_sort.csprojAssemblyReference.cache
+/Users/tuahivaatetonohiti/Projects/selection_sort/selection_sort/obj/x86/Debug/selection_sort.csproj.CoreCompileInputs.cache
+/Users/tuahivaatetonohiti/Projects/selection_sort/selection_sort/obj/x86/Debug/selection_sort.exe
+/Users/tuahivaatetonohiti/Projects/selection_sort/selection_sort/obj/x86/Debug/selection_sort.pdb
