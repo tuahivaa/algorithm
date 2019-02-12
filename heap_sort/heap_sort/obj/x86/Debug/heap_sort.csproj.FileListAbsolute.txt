@@ -1,0 +1,6 @@
+/Users/tuahivaatetonohiti/Projects/heap_sort/heap_sort/bin/Debug/heap_sort.exe
+/Users/tuahivaatetonohiti/Projects/heap_sort/heap_sort/bin/Debug/heap_sort.pdb
+/Users/tuahivaatetonohiti/Projects/heap_sort/heap_sort/obj/x86/Debug/heap_sort.csprojAssemblyReference.cache
+/Users/tuahivaatetonohiti/Projects/heap_sort/heap_sort/obj/x86/Debug/heap_sort.csproj.CoreCompileInputs.cache
+/Users/tuahivaatetonohiti/Projects/heap_sort/heap_sort/obj/x86/Debug/heap_sort.exe
+/Users/tuahivaatetonohiti/Projects/heap_sort/heap_sort/obj/x86/Debug/heap_sort.pdb
