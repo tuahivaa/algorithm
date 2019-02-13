@@ -1,0 +1,6 @@
+/Users/tuahivaatetonohiti/Projects/quick_sort/quick_sort/bin/Debug/quick_sort.exe
+/Users/tuahivaatetonohiti/Projects/quick_sort/quick_sort/bin/Debug/quick_sort.pdb
+/Users/tuahivaatetonohiti/Projects/quick_sort/quick_sort/obj/x86/Debug/quick_sort.csprojAssemblyReference.cache
+/Users/tuahivaatetonohiti/Projects/quick_sort/quick_sort/obj/x86/Debug/quick_sort.csproj.CoreCompileInputs.cache
+/Users/tuahivaatetonohiti/Projects/quick_sort/quick_sort/obj/x86/Debug/quick_sort.exe
+/Users/tuahivaatetonohiti/Projects/quick_sort/quick_sort/obj/x86/Debug/quick_sort.pdb
