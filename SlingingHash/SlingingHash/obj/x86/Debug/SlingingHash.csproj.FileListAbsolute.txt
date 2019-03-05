@@ -1,0 +1,6 @@
+/Users/tuahivaatetonohiti/Projects/SlingingHash/SlingingHash/bin/Debug/SlingingHash.exe
+/Users/tuahivaatetonohiti/Projects/SlingingHash/SlingingHash/bin/Debug/SlingingHash.pdb
+/Users/tuahivaatetonohiti/Projects/SlingingHash/SlingingHash/obj/x86/Debug/SlingingHash.csprojAssemblyReference.cache
+/Users/tuahivaatetonohiti/Projects/SlingingHash/SlingingHash/obj/x86/Debug/SlingingHash.csproj.CoreCompileInputs.cache
+/Users/tuahivaatetonohiti/Projects/SlingingHash/SlingingHash/obj/x86/Debug/SlingingHash.exe
+/Users/tuahivaatetonohiti/Projects/SlingingHash/SlingingHash/obj/x86/Debug/SlingingHash.pdb
